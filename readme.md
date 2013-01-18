@@ -1,0 +1,1 @@
+A quick project for a friend's website.

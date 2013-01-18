@@ -1,0 +1,7 @@
+@media screen and (orientation:portrait) {
+	body {background-color: #ff0000;}	
+}
+
+@media screen and (orientation:landscape) {
+	body {background-color: #000;}	
+}
